@@ -1,0 +1,21 @@
+JavaScript Execution Context
+
+Execution Context - whatever file we have made how javascript will run it. It does it in two phases.
+
+Global Execution Context is made anytime a code is given to JS. It is referred by variable this.
+
+(Q) what is the browser's execution Context => Window object is created.
+-> Global Execution Context
+-> Function Execution Context
+-> Eval Execution Context (object of a global EC)
+
+-> JS is run in two phases -
+-> Memory Creation phase - whatever the variables are declared , only memory space is created for them
+-> Execution Phase   
+
+
+
+
+
+
+-> Js is single threaded
